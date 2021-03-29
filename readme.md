@@ -15,7 +15,7 @@ node-red flow code
 
 ```
 <br><br>
-<img width="300px" src="https://user-images.githubusercontent.com/49455498/112881962-a3c11400-90cc-11eb-992a-be6c30792e74.jpg">
+<img width="400px" src="https://user-images.githubusercontent.com/49455498/112881962-a3c11400-90cc-11eb-992a-be6c30792e74.jpg">
 
 
 
