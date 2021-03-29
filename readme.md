@@ -20,4 +20,7 @@ https://flows.nodered.org/node/node-red-contrib-deconz
 <br><br>
 <b>node-red-contrib-homekit-bridged</b><br>
 https://flows.nodered.org/node/@plasma2450/node-red-contrib-homekit-bridged
-<br><br><br><br>
+<br><br>
+<b>node-red-contrib-simple-gate</b>
+https://flows.nodered.org/node/node-red-contrib-simple-gate
+<br><br>
