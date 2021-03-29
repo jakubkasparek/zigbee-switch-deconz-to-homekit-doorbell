@@ -1,6 +1,8 @@
 <img width="913" alt="Snímek obrazovky 2021-03-29 v 20 03 07" src="https://user-images.githubusercontent.com/49455498/112880680-09ac9c00-90cb-11eb-94db-f48a7832aad0.png">
 
 
+
+
 my simple node-red flow to have Apple Homekit native doorbell, by Philips Hue Smart Button.
 With safety switch to on/off function.
 
@@ -13,6 +15,9 @@ node-red flow code
 
 ```
 <br><br>
+
+![IMG_3985](https://user-images.githubusercontent.com/49455498/112881962-a3c11400-90cc-11eb-992a-be6c30792e74.jpg)
+
 
 requered node-red pallete:<br>
 <b>node-red-contrib-deconz</b><br>
