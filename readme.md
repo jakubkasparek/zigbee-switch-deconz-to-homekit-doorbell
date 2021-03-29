@@ -21,6 +21,6 @@ https://flows.nodered.org/node/node-red-contrib-deconz
 <b>node-red-contrib-homekit-bridged</b><br>
 https://flows.nodered.org/node/@plasma2450/node-red-contrib-homekit-bridged
 <br><br>
-<b>node-red-contrib-simple-gate</b>
+<b>node-red-contrib-simple-gate</b><br>
 https://flows.nodered.org/node/node-red-contrib-simple-gate
 <br><br>
