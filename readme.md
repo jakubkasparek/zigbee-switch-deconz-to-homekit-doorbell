@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/49455498/110968228-92031100-8357-11eb-922a-597e6f932c99.png" width=50%>
 
 
-#zigbee-switch-deconz-to-homekit-doorbell-with-gate
+# zigbee-switch-deconz-to-homekit-doorbell-with-gate
 
 <img width="913" alt="Snímek obrazovky 2021-03-29 v 20 03 07" src="https://user-images.githubusercontent.com/49455498/112880680-09ac9c00-90cb-11eb-94db-f48a7832aad0.png"># 
 
